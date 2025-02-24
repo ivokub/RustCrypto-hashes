@@ -1,7 +1,7 @@
 use core::convert::TryInto;
 
-const PLEN: usize = 25;
-const DEFAULT_ROUND_COUNT: usize = 24;
+pub(crate) const PLEN: usize = 25;
+pub(crate) const DEFAULT_ROUND_COUNT: usize = 24;
 
 #[cfg(all(
     target_os = "zkvm",
