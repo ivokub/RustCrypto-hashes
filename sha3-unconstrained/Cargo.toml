@@ -1,5 +1,5 @@
 [package]
-name = "sha3-unconstrained"
+name = "sha3"
 version = "0.10.8"
 description = """
 Pure Rust implementation of SHA-3, a family of Keccak-based hash functions
