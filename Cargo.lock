@@ -721,9 +721,9 @@ dependencies = [
 
 [[package]]
 name = "whirlpool-asm"
-version = "0.6.0"
+version = "0.6.2"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "4b0930846e800a97c78fd09a494b25d1f0780be9face03b7a05151e3104a8284"
+checksum = "6d47472442bfb3724cca74cbc2bde93cd7351ef81ff1f8784e6eb82755282b18"
 dependencies = [
  "cc",
 ]
