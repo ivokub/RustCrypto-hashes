@@ -552,7 +552,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "sha3"
+name = "sha3-unconstrained"
 version = "0.10.8"
 dependencies = [
  "digest",
