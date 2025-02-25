@@ -250,9 +250,9 @@ dependencies = [
 
 [[package]]
 name = "md5-asm"
-version = "0.5.0"
+version = "0.5.2"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "73b9a6f25ec11ea27e22d7fc8beafda909da44ece95f63e94f1eeb23d19bb5c7"
+checksum = "d19b8ee7fc7d812058d3b708c7f719efd0713d53854648e4223c6fcae709e2df"
 dependencies = [
  "cc",
 ]
